@@ -1,0 +1,2 @@
+# ex01/cipher/alphabet.py
+ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
